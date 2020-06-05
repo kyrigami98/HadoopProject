@@ -1,6 +1,6 @@
 package esgi.exo.FootballApp
 
-class FootballApp(
+case class FootballApp(
     var X2: Int,
     var X4: Int,
     var X5: Int,
